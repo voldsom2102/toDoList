@@ -1,0 +1,5 @@
+{
+  "title": "To-Do List",
+  "description": "A simple list stored on your reader",
+  "mount": "settings"
+}
